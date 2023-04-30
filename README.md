@@ -48,6 +48,8 @@ Meanwhile, you can use souce codes that I put here in your projects freely.
 
 **Websit**: https://tavanmandco.ir
 
+
+
 -----
 ### Restaurant Management System
 
@@ -68,6 +70,8 @@ company.
 
 **Tel**: +98 - 3136244002
 
+
+
 -----
 ### Registration Management System
 
@@ -87,10 +91,12 @@ company.
 
 **Tel**: +98 - 3132204077
 
+
+
 -----
 ### Notary Public Office Application
 
-**Company**: notary offices
+**Company**: Notary offices
 
 **Programming lnaguages**: VB .NET
 
@@ -106,3 +112,17 @@ company.
 
 
 
+-----
+### Classes Management Application
+
+**Company**: Neiriz Cultural Center
+
+**Programming lnaguages**: VB 6.0!
+
+**Database**: Access!
+
+**Description**:, Cultural centers in Iran are sub organizations of edcation system. They organize classes for high school students like language and sport classes in Iran. I designed this desktop application many years ago in order to manage and organize student's classes, printing their schedules and their grades ,... First I installed this system in Neiriz city and then another center demanded it in my city.
+
+**Source Codes**:
+
+**Address**: Sardran Boulevard - Neiriz - Iran
