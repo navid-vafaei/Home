@@ -88,23 +88,21 @@ company.
 **Tel**: +98 - 3132204077
 
 -----
-### Registration Management System
+### Notary Public Office Application
 
-**Company**: Taekwondo Association - Ministry of Sport and Youth
+**Company**: notary offices
 
-**Programming lnaguages**: Java and JavaScript
-
-**Framworks**: Spring Boot (Version 2.0) and React JS
+**Programming lnaguages**: VB .NET
 
 **Database**: Microsoft SQL Server 2005 Express
 
-**Description**:, I implemented this application in order to organize registration of trainees and manage their achieved degrees based on their belts, This application also produce their certificates and reports for administrator.
+**Description**:, I implemented this desktop application in order to manage and organize notary daily tasks and generate official documents for clients and publish technical reports for the government, calculate prices and taxes, download and update data from government’s website. I installed this sytem for notary number 173, 2,235 in Esfahan, 15 in Ben, 287 Khoor, ...
 
 **Source Codes**:
 
-**Address**: Takhti Center - Chahar Bagh Vasat Street - Esfahan - Iran
+**Address**: as an example: Mr Zargar - Motahary Street - Kashani Street - Khoor
 
-**Tel**: +98 - 3132204077
+**Tel**: +98 - 3146325162
 
 
 
