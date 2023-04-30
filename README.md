@@ -98,7 +98,7 @@ company.
 
 **Company**: Notary offices
 
-**Programming lnaguages**: VB .NET
+**Programming lnaguages**: VB .NET 2015
 
 **Database**: Microsoft SQL Server 2005 Express
 
