@@ -1,9 +1,9 @@
 Hello and welcome to my website!
 
 This is the website to represent my projects with any necessary information that I have already done.
-These projects are not open sourse projects and therefore I can not pulish wole project. Nevetheless, I publish main
-sections with explanations.
-I categorized my projects based on programming languages and frameworks that I used.
+Unfortunately, these projects are not open sourse projects and therefore I can not pulish source codes. Nevetheless, I try to publish 
+the sections with some explanations as far as I can, based on permissions that I receive from employers.
+Meanwhile, you can use souce codes that I put here in your projects freely.
 
 ---
 ### Energy Management System
