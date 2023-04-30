@@ -17,11 +17,11 @@ I categorized my projects based on programming languages and frameworks that I u
 
 **Link**: https://github.com/navid-vafaei/Energy-Management-System
 
-**Websit**: www.erec.com
-
 **Address**: Operations Department of Esfahan Regional Electric Company - Shafagh Boulevard - Esfahan - Iran
 
 **Tel**: +98 - 3150102221
+
+**Websit**: www.erec.com
 
 -----
 ### Employee Affairs Application 
