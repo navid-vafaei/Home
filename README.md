@@ -12,7 +12,7 @@ Meanwhile, you can use souce codes that I put here in your projects freely.
 
 **Programming lnaguages**: Java and JavaScript
 
-**Framworks**: Spring Boot and Angular
+**Framworks**: Spring Boot (Version 2.0) and Angular (Version 11)
 
 **Database**: Oracle 11g
 
