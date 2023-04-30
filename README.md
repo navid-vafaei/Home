@@ -27,8 +27,20 @@ Meanwhile, you can use souce codes that I put here in your projects freely.
 **Websit**: www.erec.com
 
 -----
-### Employee Affairs Application 
-Programming lnaguages: Java and JavaScript  Framworks: Spring Boot and Angular Database: Oraqcle 11g
+### Employee Affairs Application
+
+**Company**: Tavanmand Engineering Company
+
+**Programming lnaguages**: Java and JavaScript
+
+**Framworks**: Spring Boot and Angular
+
+**Database**: Oracle 11g
+Programming lnaguages: Java and JavaScript
+
+Framworks: Spring Boot and Angular
+
+Database: Oraqcle 11g
 
 
 www.google.com
