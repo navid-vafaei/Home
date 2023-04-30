@@ -7,15 +7,18 @@ Meanwhile, you can use souce codes that I put here in your projects freely.
 
 ---
 ### Energy Management System
+
+**Company**: Esfahan Regional Electric Company, Iran
+
 **Programming lnaguages**: Java and JavaScript
 
 **Framworks**: Spring Boot and Angular
 
 **Database**: Oracle 11g
 
-**Description**:l
+**Description**: Esfahan Regional Electric Company (EREC), is the bigest elecricity company in Esfahan Province and is responsible for managing and distributing energy for two provinces in Iran. Energy management system is one of the important systems that I designed from scratch in Electric Market Office. This is the history: There are about 3000 counters in electricity network, in power plants, high voltaj sub stations, ... and they send the energy measurement values via private optical Fiber or via GSM modems the server in office every 15 minutes. This system is responsible for storing, organizing and reporting from this huge data. For example, how namy counters could send their data, how many did not, how much energy has been transfers in one special point - like transformer, lines, sub station, consumer - in a desired duration, with regard to this point that network is not static, it is dynamic.
 
-**Link**: https://github.com/navid-vafaei/Energy-Management-System
+**Source Codes**: https://github.com/navid-vafaei/Energy-Management-System
 
 **Address**: Operations Department of Esfahan Regional Electric Company - Shafagh Boulevard - Esfahan - Iran
 
