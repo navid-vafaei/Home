@@ -2,7 +2,7 @@ Hello and welcome to Navid Vafaei's website!
 
 This is the website to represent my projects that I have already done along with all relative and necessary information.
 
-These projects are only for presenting and unfortunately, these projects are not open sourse projects and therefore I can not pulish whole source codes. Nevetheless, I try to publish the sections with some explanations as far as I can, based on permissions that I receive from employers.
+These projects are only for presenting and unfortunately, these projects are not open sourse projects and therefore I can not pulish whole source codes. Nevetheless, I try to publish some sections with their instructions as far as I can, based on permissions that I receive from employers.
 Meanwhile, you can use souce codes that I put here in your projects freely.
 
 ---
