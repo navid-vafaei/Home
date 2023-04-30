@@ -26,6 +26,7 @@ Meanwhile, you can use souce codes that I put here in your projects freely.
 
 **Websit**: www.erec.com
 
+
 -----
 ### Employee Affairs Application
 
@@ -33,16 +34,57 @@ Meanwhile, you can use souce codes that I put here in your projects freely.
 
 **Programming lnaguages**: Java and JavaScript
 
-**Framworks**: Spring Boot and Angular
+**Framworks**: Spring Boot (Version 2.0) and Angular (Version 11)
 
-**Database**: Oracle 11g
-Programming lnaguages: Java and JavaScript
+**Database**: Microsoft SQL Server 2005
 
-Framworks: Spring Boot and Angular
+**Description**: This company is an engineering company and mainly has employees for supporting other companies for their facilities and had about 700 employees. I designed an application for managin employee's affaris, in order to calculate their salaries, annual leaves, pensions and to generate many reports for employees and CEO of company.
 
-Database: Oraqcle 11g
+**Source Codes**: https://github.com/navid-vafaei/Energy-Management-System
 
+**Address**: No 96 - Mosala Street - Soroosh Street - Esfahan - Iran
 
-www.google.com
+**Tel**: +98 - 3135653201
+
+**Websit**: https://tavanmandco.ir
+
+-----
+### Restaurant Management System
+
+**Company**: EREC Restaurant
+
+**Programming lnaguages**: Java and JavaScript
+
+**Framworks**: Spring Boot (Version 2.0) and React JS
+
+**Database**: Microsoft SQL Server 2005 Express
+
+**Description**:, I implemented this application in order to organize and process restaurant’s orders, calculate their payments and produce tickets for each customer, generate financial reports for the restaurant’s manager.
+company.
+
+**Source Codes**: https://github.com/navid-vafaei/Energy-Management-System
+
+**Address**: Chahar Bagh Bala Street - Esfahan - Iran
+
+**Tel**: +98 - 3136244002
+
+-----
+### Registration Management System
+
+**Company**: Taekwondo Association - Ministry of Sport and Youth
+
+**Programming lnaguages**: Java and JavaScript
+
+**Framworks**: Spring Boot (Version 2.0) and React JS
+
+**Database**: Microsoft SQL Server 2005 Express
+
+**Description**:, I implemented this application in order to organize registration of trainees and manage their achieved degrees based on their belts, This application also produce their certificates and reports for administrator.
+
+**Source Codes**: https://github.com/navid-vafaei/Energy-Management-System
+
+**Address**: Takhti Center - Chahar Bagh Vasat Street - Esfahan - Iran
+
+**Tel**: +98 - 3132204077
 
 
