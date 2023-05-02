@@ -10,9 +10,7 @@ Meanwhile, you can use souce codes that I put here in your projects freely.
 
 **Company**: Esfahan Regional Electric Company, Iran
 
-**Programming lnaguages**: Java and JavaScript
-
-**Framworks**: Spring Boot (Version 2.0) and Angular (Version 11)
+**Technologies**: Java (Version 8), JavaScript (Version ES6), Spring Boot (Version 2.1) and Angular (Version 11)
 
 **Database**: Oracle 11g
 
@@ -36,9 +34,7 @@ I first designed this system with Visual Basic programming languag and then chan
 
 **Company**: Tavanmand Engineering Company
 
-**Programming lnaguages**: Java and JavaScript
-
-**Framworks**: Spring Boot (Version 2.1) and Angular (Version 8)
+**Technologies**: Java (Version 8), JavaScript (Version ES6), Spring Boot (Version 2.1) and Angular (Version 8)
 
 **Database**: Microsoft SQL Server 2005
 
@@ -52,7 +48,7 @@ I first designed this system with Visual Basic programming languag and then chan
 
 **Tel**: +98 - 3135653201
 
-**Websit**: https://tavanmandco.ir
+**Website**: https://tavanmandco.ir
 
 
 
@@ -61,9 +57,7 @@ I first designed this system with Visual Basic programming languag and then chan
 
 **Company**: EREC Restaurant
 
-**Programming lnaguages**: Java and JavaScript
-
-**Framworks**: Spring Boot (Version 2.0) and React JS
+**Technologies**: Java (Version 8), JavaScript (Version ES6), Spring Boot (Version 2.1) and React (Version 16.6.0)
 
 **Database**: Microsoft SQL Server 2005 Express
 
@@ -85,9 +79,7 @@ company.
 
 **Company**: Taekwondo Association - Ministry of Sport and Youth
 
-**Programming lnaguages**: Java and JavaScript
-
-**Framworks**: Spring Boot (Version 2.0) and React JS
+**Technologies**: Java (Version 8), JavaScript (Version ES6), Spring Boot (Version 2.1) and React (Version 16.3.0)
 
 **Database**: Microsoft SQL Server 2005 Express
 
@@ -107,9 +99,9 @@ company.
 -----
 ### Notary Public Office Application
 
-**Company**: Notary offices
+**Company**: Notary Offices
 
-**Programming lnaguages**: VB .NET 2015
+**Technology**: VB .NET 2015
 
 **Database**: Microsoft SQL Server 2008 Express
 
@@ -130,7 +122,7 @@ company.
 
 **Company**: Neiriz Cultural Center
 
-**Programming lnaguages**: VB 6.0!
+**Technologies**: VB 6.0!, Microsoft.Jet.OLEDB.4.0
 
 **Database**: Access!
 
