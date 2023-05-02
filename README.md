@@ -53,7 +53,7 @@ I first designed this system with Visual Basic programming languag and then chan
 
 
 -----
-### Restaurant Management System
+### Restaurant Management Application
 
 **Company**: EREC Restaurant
 
