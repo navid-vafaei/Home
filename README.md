@@ -36,7 +36,7 @@ I first designed this system with Visual Basic programming languag and then chan
 
 **Technologies**: Java (Version 8), JavaScript (Version ES6), Spring Boot (Version 2.1) and Angular (Version 8)
 
-**Database**: Microsoft SQL Server 2005
+**Database**: Microsoft SQL Server 2012
 
 **Year/Duration**: 2019 / 8 months
 
@@ -59,7 +59,7 @@ I first designed this system with Visual Basic programming languag and then chan
 
 **Technologies**: Java (Version 8), JavaScript (Version ES6), Spring Boot (Version 2.1) and React (Version 16.6.0)
 
-**Database**: Microsoft SQL Server 2005 Express
+**Database**: Microsoft SQL Server Express 2012
 
 **Year / Duration**: 2018 / 4 months
 
@@ -81,7 +81,7 @@ company.
 
 **Technologies**: Java (Version 8), JavaScript (Version ES6), Spring Boot (Version 2.1) and React (Version 16.3.0)
 
-**Database**: Microsoft SQL Server 2005 Express
+**Database**: Microsoft SQL Server 2012
 
 **Year / Duration**: 2018 / 4 months
 
@@ -101,11 +101,11 @@ company.
 
 **Company**: Notary Offices
 
-**Technology**: VB .NET 2015
+**Technology**: VB .NET 2010
 
 **Database**: Microsoft SQL Server 2008 Express
 
-**Year / Duration**: 2017 / 16 months
+**Year / Duration**: 2016 / 16 months
 
 **Description**:, I implemented this desktop application in order to manage and organize notary daily tasks and generate official documents for clients and publish technical reports for the government, calculate prices and taxes, download and update data from government’s website. I installed this sytem for notary number 173, 2,235 in Esfahan, 15 in Ben, 287 Khoor, ...
 
