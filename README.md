@@ -30,7 +30,7 @@ I first designed this system with Visual Basic programming languag and then chan
 
 
 -----
-### Employee Affairs Application
+### Human Resources Management System
 
 **Company**: Tavanmand Engineering Company
 
