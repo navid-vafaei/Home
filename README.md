@@ -103,7 +103,7 @@ company.
 
 **Description**:, I implemented this desktop application in order to manage and organize notary daily tasks and generate official documents for clients and publish technical reports for the government, calculate prices and taxes, download and update data from government’s website. I installed this sytem for notary number 173, 2,235 in Esfahan, 15 in Ben, 287 Khoor, ...
 
-**Source Codes**: (comming soon, after permission, before end of May 2023)
+**Source Codes**: (I will upload some source codes and images after permission, try to do it before end of May 2023)
 
 **Address**: as an example: Mr Zargar - Motahary Street - Kashani Street - Khoor
 
