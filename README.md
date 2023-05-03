@@ -36,7 +36,7 @@ I first designed this system with Visual Basic programming languag and then chan
 
 **Database**: Microsoft SQL Server 2012
 
-**Year/Duration**: 2019 / 8 months
+**Year-Duration**: 2019-8 months
 
 **Description**: This company was an engineering company and mainly had employees for supporting other companies in their facilities and had about 700 employees. I designed an application for managing employee's affaris, in order to calculate their salaries, annual leaves, pensions and to generate many reports for employees and CEO of company. First, I implemented it with VB. NET 2015, as a desktop application forms, but then I upgrated it to a Web application.
 
@@ -57,7 +57,7 @@ I first designed this system with Visual Basic programming languag and then chan
 
 **Database**: Microsoft SQL Server Express 2012
 
-**Year / Duration**: 2018 / 4 months
+**Year-Duration**: 2018-4 months
 
 **Description**:, I implemented this application in order to organize and process restaurant’s orders, calculate their payments and produce tickets for each customer, generate financial reports for the restaurant’s manager.
 company. 
@@ -79,7 +79,7 @@ company.
 
 **Database**: Microsoft SQL Server 2012
 
-**Year / Duration**: 2018 / 4 months
+**Year-Duration**: 2018-4 months
 
 **Description**:, I implemented this application in order to organize registration of trainees and manage their achieved degrees based on their belts, This application also produce their certificates and reports for administrator.
 
@@ -99,7 +99,7 @@ company.
 
 **Database**: Microsoft SQL Server 2008 Express
 
-**Year / Duration**: 2016 / 16 months
+**Year-Duration**: 2016-16 months
 
 **Description**:, I implemented this desktop application in order to manage and organize notary daily tasks and generate official documents for clients and publish technical reports for the government, calculate prices and taxes, download and update data from government’s website. I installed this sytem for notary number 173, 2,235 in Esfahan, 15 in Ben, 287 Khoor, ...
 
@@ -120,7 +120,7 @@ company.
 
 **Database**: Access!
 
-**Year / Duration**: 2001 / 3 months
+**Year-Duration**: 2001-3 months
 
 **Description**:, This  was my first official project in many years ago. Cultural centers in Iran are sub organizations of edcation system. They organize classes for high school students like language and sport classes in Iran. I designed this desktop application in that time in order to manage and organize student's classes, print their schedules and their grades ,... First I installed this system in Neiriz city and then another center demanded it in my city.
 
