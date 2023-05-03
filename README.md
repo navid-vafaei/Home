@@ -24,7 +24,7 @@ I first designed this system with Visual Basic programming languag and then chan
 
 **Address**: Operations Department of Esfahan Regional Electric Company - Shafagh Boulevard - Esfahan - Iran
 
-**Tel**: +98 - 3150102221   [Websit](www.erec.com)
+**Tel**: +98 - 3150102221   [website](www.erec.com)
 
 
 -----
@@ -44,9 +44,7 @@ I first designed this system with Visual Basic programming languag and then chan
 
 **Address**: No 96 - Mosala Street - Soroosh Street - Esfahan - Iran
 
-**Tel**: +98 - 3135653201
-
-**Website**: https://tavanmandco.ir
+**Tel**: +98 - 3135653201    [website](https://tavanmandco.ir)
 
 
 
@@ -89,9 +87,7 @@ company.
 
 **Address**: Takhti Center - Chahar Bagh Vasat Street - Esfahan - Iran
 
-**Tel**: +98 - 3132204077
-
-**Websit**: http://tkdesfahan.ir
+**Tel**: +98 - 3132204077      [Website](http://tkdesfahan.ir)
 
 
 -----
