@@ -20,7 +20,7 @@ Meanwhile, you can use souce codes that I put here in your projects freely.
 I first designed this system with Visual Basic programming languag and then changed it to new technologies.
 
 
-**Source Codes**: (I will upload some source codes and images in two parts - software and database sections -  after permission, try to do it before end of May 2023)
+**Source Codes**: I will upload some source codes and images in two parts - software and database sections -  after permission, try to do it before end of May 2023
 
 **Address**: Operations Department of Esfahan Regional Electric Company - Shafagh Boulevard - Esfahan - Iran
 
@@ -62,7 +62,7 @@ I first designed this system with Visual Basic programming languag and then chan
 **Description**:, I implemented this application in order to organize and process restaurant’s orders, calculate their payments and produce tickets for each customer, generate financial reports for the restaurant’s manager.
 company. 
 
-**Source Codes**: (I will upload some source codes and images after permission, try to do it before end of May 2023)
+**Source Codes**: I will upload some source codes and images after permission, try to do it before end of May 2023
 
 **Address**: Chahar Bagh Bala Street - Esfahan - Iran
 
@@ -83,7 +83,7 @@ company.
 
 **Description**:, I implemented this application in order to organize registration of trainees and manage their achieved degrees based on their belts, This application also produce their certificates and reports for administrator.
 
-**Source Codes**: (I will upload some source codes and images after permission, try to do it before end of May 2023)
+**Source Codes**: I will upload some source codes and images after permission, try to do it before end of May 2023
 
 **Address**: Takhti Center - Chahar Bagh Vasat Street - Esfahan - Iran
 
@@ -103,7 +103,7 @@ company.
 
 **Description**:, I implemented this desktop application in order to manage and organize notary daily tasks and generate official documents for clients and publish technical reports for the government, calculate prices and taxes, download and update data from government’s website. I installed this sytem for notary number 173, 2,235 in Esfahan, 15 in Ben, 287 Khoor, ...
 
-**Source Codes**: (I will upload some source codes and images after permission, try to do it before end of May 2023)
+**Source Codes**: I will upload some source codes and images after permission, try to do it before end of May 2023
 
 **Address**: as an example: Mr Zargar - Motahary Street - Kashani Street - Khoor
 
@@ -124,6 +124,6 @@ company.
 
 **Description**:, This  was my first official project in many years ago. Cultural centers in Iran are sub organizations of edcation system. They organize classes for high school students like language and sport classes in Iran. I designed this desktop application in that time in order to manage and organize student's classes, print their schedules and their grades ,... First I installed this system in Neiriz city and then another center demanded it in my city.
 
-**Source Codes**: (I will upload some source codes and images after permission, try to do it before end of May 2023)
+**Source Codes**: I will upload some source codes and images after permission, try to do it before end of May 2023
 
 **Address**: Sardran Boulevard - Neiriz - Iran
