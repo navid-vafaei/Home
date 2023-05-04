@@ -20,7 +20,7 @@ Meanwhile, you can use souce codes that I put here in your projects freely.
 I first designed this system with Visual Basic programming languag and then changed it to new technologies.
 
 
-**Source Codes**: (I will upload some source codes and images after permission, try to do it before end of May 2023)
+**Source Codes**: (I will upload some source codes and images in two parts - software and database sections -  after permission, try to do it before end of May 2023)
 
 **Address**: Operations Department of Esfahan Regional Electric Company - Shafagh Boulevard - Esfahan - Iran
 
