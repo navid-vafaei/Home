@@ -1,4 +1,4 @@
-Hello and welcome to Navid Vafaei's github projects!
+Hello and welcome to my github!
 
 This is the website to represent my projects that I have already done along with all relative and necessary information.
 
