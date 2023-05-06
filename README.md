@@ -71,7 +71,7 @@ company.
 
 
 -----
-### Registration Management Application
+### Class Registration software
 
 **Company**: Taekwondo Association - Ministry of Sport and Youth
 
