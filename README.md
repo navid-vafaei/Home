@@ -12,7 +12,7 @@ Meanwhile, you can use souce codes that I put here in your projects freely.
 
 **Technologies**: Java (Version 8), JavaScript (Version ES6), Spring Boot (Version 2.1) and Angular (Version 11)
 
-**Database**: Oracle 11g
+**Database**: Oracle 19c
 
 **Year - Duration**: 2014 till 2021 - 7 years
 
