@@ -94,7 +94,7 @@ company.
 ### Notary Public Office Application
 
 <p align="center" width="100%">
-    <img width="33%" src="https://github.com/navid-vafaei/Notary-Public-Office-Application/blob/main/Images/02.png">
+    <img width="100%" src="https://github.com/navid-vafaei/Notary-Public-Office-Application/blob/main/Images/02.png">
 </p>
 
 **Company**: Notary Offices
