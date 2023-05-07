@@ -102,8 +102,7 @@ company.
 **Year - Duration**: 2016 - 16 months
 
 **Description**:, I implemented this desktop application in order to manage and organize notary daily tasks and generate official documents for clients and publish technical reports for the government, calculate prices and taxes, download and update data from government’s website. I installed this sytem for notary number 173, 2,235 in Esfahan, 15 in Ben, 287 Khoor, ...
-For more information ,source codes and images, please click [here](https://github.com/navid-vafaei/Notary-Public-Office-Application)
-.
+For more information ,source codes and images, please click [here](https://github.com/navid-vafaei/Notary-Public-Office-Application)..
 
 **Address**: as an example: Mr Zargar - Motahary Street - Kashani Street - Khoor
 
