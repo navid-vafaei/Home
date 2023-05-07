@@ -93,6 +93,8 @@ company.
 -----
 ### Notary Public Office Application
 
+![Image of one file](https://github.com/navid-vafaei/Notary-Public-Office-Application/blob/main/Images/02.png)
+
 **Company**: Notary Offices
 
 **Technology**: VB .NET 2010
