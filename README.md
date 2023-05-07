@@ -93,10 +93,6 @@ company.
 -----
 ### Notary Public Office Application
 
-<p align="center" width="100%">
-    <img width="100%" src="https://github.com/navid-vafaei/Notary-Public-Office-Application/blob/main/Images/01.png">
-</p>
-
 **Company**: Notary Offices
 
 **Technology**: VB .NET 2010
@@ -104,6 +100,10 @@ company.
 **Database**: Microsoft SQL Server 2008 Express
 
 **Year - Duration**: 2016 - 16 months
+
+<p align="center" width="100%">
+    <img width="100%" src="https://github.com/navid-vafaei/Notary-Public-Office-Application/blob/main/Images/01.png">
+</p>
 
 **Description**:, I implemented this desktop application in order to manage and organize notary daily tasks and generate official documents for clients and publish technical reports for the government, calculate prices and taxes, download and update data from government’s website. I installed this sytem for notary number 173, 2,235 in Esfahan, 15 in Ben, 287 Khoor, ...
 For more information ,source codes and images, please click [here](https://github.com/navid-vafaei/Notary-Public-Office-Application).
