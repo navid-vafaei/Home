@@ -2,7 +2,7 @@ Welcome to my github!
 
 This website represents my projects that I have already done with their details and necessary information.
 
-If you have any questions, Please feel free to send them via my [linkedin](https://www.linkedin.com/in/navid-vafaei/)
+If you have any questions, feel free to send them via my [linkedin](https://www.linkedin.com/in/navid-vafaei/)
 
 ---
 ### Energy Management System
