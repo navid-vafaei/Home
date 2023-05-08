@@ -2,9 +2,6 @@ Welcome to my github!
 
 This website represents my projects that I have already done with their details and necessary information.
 
-These projects are only for presenting and not for using as they are not open sourse projects for public and therefore I can not pulish whole source codes. Nevetheless, I try to publish some sections with their instructions as far as I can, based on permissions that I receive from employers.
-Meanwhile, you can use souce codes that I put here in your projects freely.
-
 ---
 ### Energy Management System
 
