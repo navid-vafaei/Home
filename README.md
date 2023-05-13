@@ -33,7 +33,7 @@ I first designed this system with Visual Basic programming languag and then chan
 
 **Technologies**: Java (Version 8), JavaScript (Version ES6), Spring Boot (Version 2.1) and Angular (Version 8)
 
-**Database**: Microsoft SQL Server 2012
+**Database**: Microsoft SQL Server 2015
 
 **Year - Duration**: 2019 - 8 months
 
@@ -54,7 +54,7 @@ I first designed this system with Visual Basic programming languag and then chan
 
 **Technologies**: Java (Version 8), JavaScript (Version ES6), Spring Boot (Version 2.1) and React (Version 16.6.0)
 
-**Database**: Microsoft SQL Server Express 2012
+**Database**: Microsoft SQL Server 2012
 
 **Year - Duration**: 2018 - 4 months
 
