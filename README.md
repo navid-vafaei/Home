@@ -13,7 +13,6 @@ If you have any questions, feel free to send them via my [linkedin](https://www.
 
 **Database**: Oracle 19c
 
-**Year - Duration**: 2014 till 2021 - 7 years
 
 **Description**: Esfahan Regional Electric Company (EREC), is the bigest elecricity company in Esfahan Province and is responsible for managing and distributing energy for two provinces in Iran. Energy management system is one of the important systems that I designed from scratch in Electric Market Office. This is the mission: There are about 3000 counters in electricity network, in power plants, high voltaj sub stations, ... and they send the energy measurement values via private optical Fiber or via GSM modems the server in office every 15 minutes. This system is responsible for storing, organizing and reporting from this huge data. For example, how namy counters could send their data, how many did not, how much energy has been transfers in one special point - like transformer, lines, sub station, consumer - in a desired duration, with regard to this point that network is not static, it is dynamic. Reports of this data was also used for making decesions in other departments like dispatching affairs or statistc panning offices for forecasting energy. This system also is responsible for calculating and producing customer's bills. Customers are big industries like steel companies such as [Mobarakeh Steel Engineering Company](https://www.mse.ir/en/) and [Esfahan Steel Company](https://www.esfahansteel.ir/en) and many other big companies.
 I first designed this system with Visual Basic programming languag and then changed it to new technologies.
@@ -35,8 +34,6 @@ I first designed this system with Visual Basic programming languag and then chan
 
 **Database**: Microsoft SQL Server 2015
 
-**Year - Duration**: 2019 - 8 months
-
 **Description**: This company was an engineering company and mainly had employees for supporting other companies in their facilities and had about 700 employees. I designed an application for managing employee's affaris, in order to calculate their salaries, annual leaves, pensions and to generate many reports for employees and CEO of company. First, I implemented it with VB. NET 2015, as a desktop application forms, but then I upgrated it to a Web application.
 
 **Source Codes**: (I will upload some source codes and images after permission, try to do it before end of May 2023)
@@ -55,8 +52,6 @@ I first designed this system with Visual Basic programming languag and then chan
 **Technologies**: Java (Version 8), JavaScript (Version ES6), Spring Boot (Version 2.1) and React (Version 16.6.0)
 
 **Database**: Microsoft SQL Server 2012
-
-**Year - Duration**: 2018 - 4 months
 
 **Description**:, I implemented this application in order to organize and process restaurant’s orders, calculate their payments and produce tickets for each customer, generate financial reports for the restaurant’s manager.
 company. 
@@ -78,8 +73,6 @@ company.
 
 **Database**: Microsoft SQL Server 2012
 
-**Year - Duration**: 2018 - 4 months
-
 **Description**:, I implemented this application in order to organize registration of trainees and manage their achieved degrees based on their belts, This application also produce their certificates and reports for administrator.
 
 **Source Codes**: I will upload some source codes and images after permission, try to do it before end of May 2023
@@ -97,8 +90,6 @@ company.
 **Technology**: VB .NET 2010
 
 **Database**: Microsoft SQL Server 2008 Express
-
-**Year - Duration**: 2016 - 16 months
 
 <p align="center" width="100%">
     <img width="100%" src="https://github.com/navid-vafaei/Notary-Public-Office-Application/blob/main/Images/01.png">
@@ -121,8 +112,6 @@ For more information ,some source codes and images, please click [here](https://
 **Technologies**: VB 6.0!, Microsoft.Jet.OLEDB.4.0
 
 **Database**: Access!
-
-**Year-Duration**: 2001-3 months
 
 <p align="center" width="100%">
     <img width="100%" src="https://github.com/navid-vafaei/Notary-Public-Office-Application/blob/main/Images/12.png">
